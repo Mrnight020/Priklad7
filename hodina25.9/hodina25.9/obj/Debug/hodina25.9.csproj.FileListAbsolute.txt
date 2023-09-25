@@ -1,0 +1,10 @@
+G:\Programování\4.ROČNÍK\hodina25.9\hodina25.9\bin\Debug\hodina25.9.exe.config
+G:\Programování\4.ROČNÍK\hodina25.9\hodina25.9\bin\Debug\hodina25.9.exe
+G:\Programování\4.ROČNÍK\hodina25.9\hodina25.9\bin\Debug\hodina25.9.pdb
+G:\Programování\4.ROČNÍK\hodina25.9\hodina25.9\obj\Debug\hodina25.9.csprojAssemblyReference.cache
+G:\Programování\4.ROČNÍK\hodina25.9\hodina25.9\obj\Debug\hodina25._9.Form1.resources
+G:\Programování\4.ROČNÍK\hodina25.9\hodina25.9\obj\Debug\hodina25._9.Properties.Resources.resources
+G:\Programování\4.ROČNÍK\hodina25.9\hodina25.9\obj\Debug\hodina25.9.csproj.GenerateResource.cache
+G:\Programování\4.ROČNÍK\hodina25.9\hodina25.9\obj\Debug\hodina25.9.csproj.CoreCompileInputs.cache
+G:\Programování\4.ROČNÍK\hodina25.9\hodina25.9\obj\Debug\hodina25.9.exe
+G:\Programování\4.ROČNÍK\hodina25.9\hodina25.9\obj\Debug\hodina25.9.pdb
